@@ -1,4 +1,4 @@
-# Ex.No:3a Creation For Chat using TCP Sockets
+# Ex.No:3b Creation For Chat using TCP Sockets
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
